@@ -30,6 +30,8 @@ if above 2 commands didnot work use the following
   	gstreamer1.0-{omx,alsa} python3-dev
  
 	$ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+	
+	$ sudo apt-get install python3-pip
 
   	$ python3 -m pip install --upgrade --user Cython==0.29.10 pillow
 
