@@ -29,19 +29,7 @@ if above 2 commands didnot work use the following
   	gstreamer1.0-plugins-{bad,base,good,ugly} \
   	gstreamer1.0-{omx,alsa} python3-dev
  
-	$ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
-  	pkg-config libgl1-mesa-dev libgles2-mesa-dev \
-  	python3-setuptools libgstreamer1.0-dev git-core \
-  	gstreamer1.0-plugins-{bad,base,good,ugly} \
-  	gstreamer1.0-{omx,alsa} python3-dev
-
-
-   	$ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
-   	pkg-config libgl1-mesa-dev libgles2-mesa-dev \
-   	python3-setuptools libgstreamer1.0-dev git-core \
-   	gstreamer1.0-plugins-{bad,base,good,ugly} \
-   	gstreamer1.0-{omx,alsa} python3-dev
-
+	$ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
 
   	$ python3 -m pip install --upgrade --user Cython==0.29.10 pillow
 
