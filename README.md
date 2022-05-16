@@ -46,4 +46,5 @@ if above 2 commands didnot work use the following
 	$ nano ~/.kivy/config.ini
 	
 In modules section add
+
 	cursor=1
